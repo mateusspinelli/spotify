@@ -1,5 +1,5 @@
 # Projeto feito para aprender sobre a API do spotify
-# Neste você pode logar na sua conta do spotify e então irá mostrar todas as suas playlists públicas
+# Neste projeto você pode logar na sua conta do spotify e então irá mostrar todas as suas playlists públicas
 # Também mostra todas as músicas de uma playlist da minha escolha
 
 ### Languages and Tools:
